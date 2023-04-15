@@ -1,6 +1,6 @@
 # W7s OS
 
-W7s OS is designed to keep geting better until it is ready for launch in W7s products.
+W7s OS is designed to be a modern OS for gaming, work, etc. With each version W7s OS improves until it is ready for Public Release.
 
 ## Features
 
