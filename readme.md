@@ -3,7 +3,7 @@
 W7s OS is designed to be a modern OS for gaming, work, etc. 
 With each version W7s OS improves until it is ready for Public Release.
 
-## Features
+### Features
 
 - Simple and intuitive command-line interface
 - File system with support for multiple file formats
@@ -12,11 +12,11 @@ With each version W7s OS improves until it is ready for Public Release.
 - Networking stack with support for TCP/IP and UDP protocols
 - Support for various hardware devices, such as keyboards, mice, and displays
 
-## Getting Started
+### Getting Started
 
-This OS is build on Asm/Assembly and once googd enough will be released.
+This OS is build on Asm/Assembly and once it is good enough it will be released.
 
-## Contributing
+### Contributing
 
 If you're interested in contributing to W7s OS, we'd love to have your help! Here are a few ways you can get involved:
 
@@ -25,6 +25,6 @@ If you're interested in contributing to W7s OS, we'd love to have your help! Her
 - Help with testing and debugging
 - Spread the word and share your experiences with others
 
-## License
+### License
 
 W7s OS is licensed under the MIT License. See the LICENSE file for more information.
